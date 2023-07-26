@@ -108,7 +108,7 @@ Django and Selenium** - 📫 How to reach me **usf3md@gmail.com**
     />
   </a>
 </p>
-<h3 align="left">Frameworks and Libraries:</h3>
+<h3 align="left">Automation and Testing:</h3>
 <p align="left">
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img
