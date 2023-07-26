@@ -99,9 +99,6 @@ Django and Selenium** - 📫 How to reach me **usf3md@gmail.com**
       height="40"
     />
   </a>
-</p>
-<h3 align="left">Frameworks and Libraries:</h3>
-<p align="left">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/django.svg"
@@ -110,14 +107,9 @@ Django and Selenium** - 📫 How to reach me **usf3md@gmail.com**
       height="40"
     />
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-      alt="flask"
-      width="40"
-      height="40"
-    />
-  </a>
+</p>
+<h3 align="left">Frameworks and Libraries:</h3>
+<p align="left">
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
