@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Youssef Emad</h1>
 <h3 align="center">A passionate software engineer from Egypt</h3>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=usf3md&label=Profile%20views&color=0e75b6&style=flat"
-    alt="usf3md"
-  />
-</p>
 
 - 🌱 I’m currently learning **React, TypeScript** - 💬 Ask me about **Python,
 Django and Selenium** - 📫 How to reach me **usf3md@gmail.com**
