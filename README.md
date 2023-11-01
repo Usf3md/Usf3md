@@ -183,3 +183,10 @@
     alt="usf3md"
   />
 </p>
+
+<p>
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=usf3md&show_icons=true&locale=en"
+    alt="usf3md" />
+</p>
