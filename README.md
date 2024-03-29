@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React, TypeScript**
 - 💬 Ask me about **Python, Django and Selenium**
-- 📫 How to reach me **usf3md@gmail.com**
+- 📫 How to reach me **yemad.yassin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
